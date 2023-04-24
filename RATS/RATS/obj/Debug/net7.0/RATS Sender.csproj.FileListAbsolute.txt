@@ -1,0 +1,15 @@
+C:\Users\Dominylas\source\repos\RATS\RATS\bin\Debug\net7.0\RATS Sender.exe
+C:\Users\Dominylas\source\repos\RATS\RATS\bin\Debug\net7.0\RATS Sender.deps.json
+C:\Users\Dominylas\source\repos\RATS\RATS\bin\Debug\net7.0\RATS Sender.runtimeconfig.json
+C:\Users\Dominylas\source\repos\RATS\RATS\bin\Debug\net7.0\RATS Sender.dll
+C:\Users\Dominylas\source\repos\RATS\RATS\bin\Debug\net7.0\RATS Sender.pdb
+C:\Users\Dominylas\source\repos\RATS\RATS\obj\Debug\net7.0\RATS Sender.csproj.AssemblyReference.cache
+C:\Users\Dominylas\source\repos\RATS\RATS\obj\Debug\net7.0\RATS Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominylas\source\repos\RATS\RATS\obj\Debug\net7.0\RATS Sender.AssemblyInfoInputs.cache
+C:\Users\Dominylas\source\repos\RATS\RATS\obj\Debug\net7.0\RATS Sender.AssemblyInfo.cs
+C:\Users\Dominylas\source\repos\RATS\RATS\obj\Debug\net7.0\RATS Sender.csproj.CoreCompileInputs.cache
+C:\Users\Dominylas\source\repos\RATS\RATS\obj\Debug\net7.0\RATS Sender.dll
+C:\Users\Dominylas\source\repos\RATS\RATS\obj\Debug\net7.0\refint\RATS Sender.dll
+C:\Users\Dominylas\source\repos\RATS\RATS\obj\Debug\net7.0\RATS Sender.pdb
+C:\Users\Dominylas\source\repos\RATS\RATS\obj\Debug\net7.0\RATS Sender.genruntimeconfig.cache
+C:\Users\Dominylas\source\repos\RATS\RATS\obj\Debug\net7.0\ref\RATS Sender.dll

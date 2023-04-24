@@ -1,0 +1,15 @@
+C:\Users\Dominylas\source\repos\RATS\RATS Receiver\bin\Debug\net7.0\RATS Receiver.exe
+C:\Users\Dominylas\source\repos\RATS\RATS Receiver\bin\Debug\net7.0\RATS Receiver.deps.json
+C:\Users\Dominylas\source\repos\RATS\RATS Receiver\bin\Debug\net7.0\RATS Receiver.runtimeconfig.json
+C:\Users\Dominylas\source\repos\RATS\RATS Receiver\bin\Debug\net7.0\RATS Receiver.dll
+C:\Users\Dominylas\source\repos\RATS\RATS Receiver\bin\Debug\net7.0\RATS Receiver.pdb
+C:\Users\Dominylas\source\repos\RATS\RATS Receiver\obj\Debug\net7.0\RATS Receiver.csproj.AssemblyReference.cache
+C:\Users\Dominylas\source\repos\RATS\RATS Receiver\obj\Debug\net7.0\RATS Receiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominylas\source\repos\RATS\RATS Receiver\obj\Debug\net7.0\RATS Receiver.AssemblyInfoInputs.cache
+C:\Users\Dominylas\source\repos\RATS\RATS Receiver\obj\Debug\net7.0\RATS Receiver.AssemblyInfo.cs
+C:\Users\Dominylas\source\repos\RATS\RATS Receiver\obj\Debug\net7.0\RATS Receiver.csproj.CoreCompileInputs.cache
+C:\Users\Dominylas\source\repos\RATS\RATS Receiver\obj\Debug\net7.0\RATS Receiver.dll
+C:\Users\Dominylas\source\repos\RATS\RATS Receiver\obj\Debug\net7.0\refint\RATS Receiver.dll
+C:\Users\Dominylas\source\repos\RATS\RATS Receiver\obj\Debug\net7.0\RATS Receiver.pdb
+C:\Users\Dominylas\source\repos\RATS\RATS Receiver\obj\Debug\net7.0\RATS Receiver.genruntimeconfig.cache
+C:\Users\Dominylas\source\repos\RATS\RATS Receiver\obj\Debug\net7.0\ref\RATS Receiver.dll
