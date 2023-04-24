@@ -41,10 +41,10 @@ namespace RATS_Receiver
                     ArraySegment<byte> toconv = new ArraySegment<byte>(bytes, 0, bytenum);
                     string received = Encoding.UTF8.GetString(toconv);
                     receiv rec = JsonSerializer.Deserialize<receiv>(received);
-                    //if (rec.inst == "shutdown")
-                    //{
-                    //    Process.Start("Shutdown.exe", rec.arg);
-                    //}
+                    if (rec.inst == "shutdown")
+                    {
+                        Process.Start("Shutdown.exe", rec.arg);
+                    }
                     if (rec.inst == "open")
                     {
                         Process.Start(rec.inst);
@@ -56,7 +56,6 @@ namespace RATS_Receiver
                             nint hwnd = GetForegroundWindow();
                             uint hWNd = Convert.ToUInt32(hwnd);
                             SendMessage(hWNd, 0x0112, 0xF060, 0);
-                            Console.WriteLine("Done"); //For testing
                         }
                         if (rec.arg == "specific")
                         {
