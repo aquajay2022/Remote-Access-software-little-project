@@ -1,0 +1,29 @@
+This is the documentation for my little project :)
+This will be split up into sections so its easier to Ctrl + F and find what you want. (This is my first time writing so sorry if its hard to understand, any feedback is appreceated).
+
+How to enter commands and arguments:
+	So at program startup you will be met with a prompt "Input your instruction: "
+	After you input your instruction, you will be asked to input an argument, IF your instruction doesnt need an argument just simply press enter,
+	IF your instruction needs an argument, you should input it, instruction specific arguments will be specified for each function separatly, some functions WILL need a second argument to function properly.
+
+Function 1: shutdown:
+	This function will shutdown, restart or put the computer into hibernation, you will need to specify the arguments yourself though,
+	I am planning to make it to make it less user friendly but I will include some basic arguments:
+		/s - shuts down the computer
+		/r - restarts the computer
+		/l - logs off the current user
+		for more info visit: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown
+Function 2: open:
+	This function will open any program you specify in the argument, for any NON-Windows applications or features you will have to find the path to the executable
+	I intend on finding a workaround to this in the near future
+Function 3: sendmessage:
+	This function is a bit more complex, it will send a message to any window current or specified window,
+	to send a message to the current window use the current argument, and followed by another argument of what you want to do
+	the arguments:
+		current, close - closes the current window.
+		specfic, close - closes the window you specify, and will require a second argument, which you will simply input the name of the window you want to close
+
+Thank you for your passion and support - aqua.
+
+		
+	
