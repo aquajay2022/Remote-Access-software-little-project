@@ -35,13 +35,6 @@ namespace RATS
                     Console.Write($"Supply a window name: ");
                     instru.arg2 = Console.ReadLine();
                 }
-                /*if (instru.arg == "specific, close")
-                {
-                    Console.WriteLine();
-                    Console.Write($"Supply a window name: ");
-                    instru.arg2 = Console.ReadLine();
-                }
-                */
             }
             byte[] tosend = JsonSerializer.SerializeToUtf8Bytes(instru);
             
