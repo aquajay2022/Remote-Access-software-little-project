@@ -7,3 +7,5 @@ For now I will try to keep regular commits if I can, but if I cant you will see 
 thanks for the support, and hope you enjoy reading my "code".
 
 Thank you for your passion and support!
+
+I also wanted to add that this is not for malicious use at all, all testing will be done under permission of my friends which trust me and we have been friends for years, just for some people that might be confused.
